@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Marketplace:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6c981d6-054c-4dd1-b917-e5613cc06ff1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2eonOeGGqzkbAt4hFeoPgOh0fg6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DatabaseConnectionTest.executor": "Run",
+    "JUnit.TestDBHBN.executor": "Run",
+    "JUnit.TestDBHBN.getAllProduct.executor": "Run",
+    "JUnit.TestDBHBN.getAllbucket.executor": "Run",
+    "JUnit.TestDBHBN.getAllСategory.executor": "Run",
+    "JUnit.TestDBHBN.getByIdTest.executor": "Run",
+    "JUnit.TestDBHBN.getIdByKeySetTest.executor": "Run",
+    "JUnit.TestDBHBN.getUserTest.executor": "Run",
+    "JUnit.TestDBHBN.testGetAllAuctions.executor": "Run",
+    "JUnit.TestDBHBN.testGetAllUsers.executor": "Run",
+    "JUnit.TestDBHBN.testGetHighestBidAmountForAuction.executor": "Run",
+    "JUnit.TestDBHBN.testGetIdByEmail.executor": "Run",
+    "JUnit.TestDBHBN.testGetMaxBidAmountAndAuctionName.executor": "Run",
+    "JUnit.TestDBHBN.testGetOrdersByUserId.executor": "Run",
+    "JUnit.TestDBHBN.testGetProductsBySellerId.executor": "Run",
+    "JUnit.TestDBHBN.testGetWinnerAndProductForAuction.executor": "Run",
+    "JUnit.TestDBHBN.testGetWinnerForAuction.executor": "Run",
+    "JUnit.TestDBHBN.testPrintProductsBySellerId.executor": "Run",
+    "Maven.Marketplace [clean].executor": "Run",
+    "Maven.Marketplace [install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Tomcat Server.Profile.jsp.executor": "Run",
+    "Tomcat Server.Tomcat 10.1.19.executor": "Run",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/OneDrive/Desktop/Универ/4 курс/Marketplace",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "service.view.auto.scroll.to.source": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="knit.semit.psr.marketplace.servlet" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\poovn\Desktop\Универ\3 курс\2 семестр\ПРОЕКТ\Marketplace\src\main\resources" />
+      <recent name="C:\Users\poovn\Desktop\Универ\3 курс\2 семестр\ПРОЕКТ\Marketplace\src\main\webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\poovn\Desktop\Универ\3 курс\2 семестр\ПРОЕКТ\Marketplace\src\main\webapp" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="knit.semit.psr.marketplace.enums" />
+      <recent name="knit.semit.psr.marketplace.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestDBHBN.getAllbucket">
+    <configuration name="TestDBHBN.getAllProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Marketplace" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDBHBN" />
+      <option name="METHOD_NAME" value="getAllProduct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDBHBN.getAllbucket" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Marketplace" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDBHBN" />
+      <option name="METHOD_NAME" value="getAllbucket" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDBHBN.testGetAllAuctions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Marketplace" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDBHBN" />
+      <option name="METHOD_NAME" value="testGetAllAuctions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDBHBN.testGetAllUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Marketplace" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDBHBN" />
+      <option name="METHOD_NAME" value="testGetAllUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDBHBN.testGetOrdersByUserId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Marketplace" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDBHBN" />
+      <option name="METHOD_NAME" value="testGetOrdersByUserId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 10.1.19" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.19" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="Marketplace:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Marketplace_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="facb59a5-f287-4964-9e59-2f7a232450ce" />
+        <option name="HTTP_PORT" value="8081" />
+        <option name="JNDI_PORT" value="1098" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54573" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Marketplace:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestDBHBN.getAllbucket" />
+      <item itemvalue="JUnit.TestDBHBN.getAllProduct" />
+      <item itemvalue="JUnit.TestDBHBN.testGetAllAuctions" />
+      <item itemvalue="JUnit.TestDBHBN.testGetAllUsers" />
+      <item itemvalue="JUnit.TestDBHBN.testGetOrdersByUserId" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestDBHBN.testGetAllUsers" />
+        <item itemvalue="JUnit.TestDBHBN.getAllProduct" />
+        <item itemvalue="JUnit.TestDBHBN.testGetAllAuctions" />
+        <item itemvalue="JUnit.TestDBHBN.testGetOrdersByUserId" />
+        <item itemvalue="JUnit.TestDBHBN.getAllbucket" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6c981d6-054c-4dd1-b917-e5613cc06ff1" name="Changes" comment="" />
+      <created>1712579769149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712579769149</updated>
+      <workItem from="1712579770195" duration="389000" />
+      <workItem from="1712584602947" duration="6134000" />
+      <workItem from="1712606447795" duration="211000" />
+      <workItem from="1712607039220" duration="71000" />
+      <workItem from="1712649069159" duration="5975000" />
+      <workItem from="1712671713322" duration="671000" />
+      <workItem from="1712827214930" duration="155000" />
+      <workItem from="1712841123149" duration="2370000" />
+      <workItem from="1712994675623" duration="37000" />
+      <workItem from="1713348469043" duration="5178000" />
+      <workItem from="1713446857970" duration="1010000" />
+      <workItem from="1713614761359" duration="29000" />
+      <workItem from="1713857609660" duration="1727000" />
+      <workItem from="1713880978671" duration="1501000" />
+      <workItem from="1713882518118" duration="9303000" />
+      <workItem from="1713901953969" duration="1102000" />
+      <workItem from="1713943897129" duration="172000" />
+      <workItem from="1714025721840" duration="13544000" />
+      <workItem from="1714196723719" duration="46000" />
+      <workItem from="1714389970355" duration="13662000" />
+      <workItem from="1714471044826" duration="7741000" />
+      <workItem from="1714494660345" duration="595000" />
+      <workItem from="1714544223646" duration="12542000" />
+      <workItem from="1714629946416" duration="6977000" />
+      <workItem from="1714656653600" duration="718000" />
+      <workItem from="1714808070247" duration="78000" />
+      <workItem from="1714837734923" duration="11066000" />
+      <workItem from="1714901784049" duration="8000" />
+      <workItem from="1714988809938" duration="9288000" />
+      <workItem from="1714998822371" duration="6618000" />
+      <workItem from="1715157652715" duration="6186000" />
+      <workItem from="1715165610380" duration="7732000" />
+      <workItem from="1715257488390" duration="33000" />
+      <workItem from="1715260930468" duration="9586000" />
+      <workItem from="1715272132968" duration="362000" />
+      <workItem from="1715272775640" duration="519000" />
+      <workItem from="1715607981281" duration="21000" />
+      <workItem from="1715689839193" duration="6087000" />
+      <workItem from="1715703189896" duration="2493000" />
+      <workItem from="1715768573372" duration="9387000" />
+      <workItem from="1715778709987" duration="1800000" />
+      <workItem from="1715838241074" duration="2160000" />
+      <workItem from="1715866067131" duration="1197000" />
+      <workItem from="1715933512257" duration="181000" />
+      <workItem from="1716214913895" duration="7086000" />
+      <workItem from="1716367262916" duration="1018000" />
+      <workItem from="1716376219560" duration="6468000" />
+      <workItem from="1716443270642" duration="877000" />
+      <workItem from="1716455580688" duration="6766000" />
+      <workItem from="1716463798781" duration="415000" />
+      <workItem from="1716464703345" duration="9008000" />
+      <workItem from="1716627933867" duration="75000" />
+      <workItem from="1716753294172" duration="618000" />
+      <workItem from="1716814633648" duration="2634000" />
+      <workItem from="1716817557841" duration="934000" />
+      <workItem from="1716819360982" duration="8140000" />
+      <workItem from="1716828110417" duration="70000" />
+      <workItem from="1716885306738" duration="1918000" />
+      <workItem from="1716988830410" duration="157000" />
+      <workItem from="1717048853584" duration="2222000" />
+      <workItem from="1717051171281" duration="8394000" />
+      <workItem from="1717064114763" duration="1350000" />
+      <workItem from="1717071406323" duration="840000" />
+      <workItem from="1717075668155" duration="4019000" />
+      <workItem from="1717142725582" duration="17000" />
+      <workItem from="1717158593550" duration="1258000" />
+      <workItem from="1717169870067" duration="1210000" />
+      <workItem from="1717184567780" duration="3455000" />
+      <workItem from="1717188548327" duration="2152000" />
+      <workItem from="1717237797624" duration="5975000" />
+      <workItem from="1717251299911" duration="321000" />
+      <workItem from="1717274894928" duration="6581000" />
+      <workItem from="1717315811196" duration="1165000" />
+      <workItem from="1717342979081" duration="276000" />
+      <workItem from="1717515001947" duration="2781000" />
+      <workItem from="1717530288088" duration="1600000" />
+      <workItem from="1717531983122" duration="6668000" />
+      <workItem from="1717579068438" duration="1590000" />
+      <workItem from="1717601887558" duration="1455000" />
+      <workItem from="1717663810750" duration="1924000" />
+      <workItem from="1717678305117" duration="7547000" />
+      <workItem from="1718299335627" duration="1210000" />
+      <workItem from="1718448499468" duration="49000" />
+      <workItem from="1718450557915" duration="13000" />
+      <workItem from="1719741659963" duration="387000" />
+      <workItem from="1719742106797" duration="252000" />
+      <workItem from="1720271875742" duration="3866000" />
+      <workItem from="1720275793859" duration="6781000" />
+      <workItem from="1720282979338" duration="6104000" />
+      <workItem from="1720349920076" duration="10206000" />
+      <workItem from="1720361737689" duration="2937000" />
+      <workItem from="1721029738056" duration="12689000" />
+      <workItem from="1721062245354" duration="1376000" />
+      <workItem from="1721121179647" duration="2843000" />
+      <workItem from="1721136101153" duration="584000" />
+      <workItem from="1721136766531" duration="140000" />
+      <workItem from="1721737008530" duration="347000" />
+      <workItem from="1721737368192" duration="7115000" />
+      <workItem from="1721905759678" duration="3131000" />
+      <workItem from="1722002902500" duration="2682000" />
+      <workItem from="1722006353428" duration="226000" />
+      <workItem from="1722011683084" duration="998000" />
+      <workItem from="1722012847010" duration="4021000" />
+      <workItem from="1722065081533" duration="378000" />
+      <workItem from="1722078192310" duration="12555000" />
+      <workItem from="1722114555133" duration="744000" />
+      <workItem from="1722165637995" duration="4885000" />
+      <workItem from="1722177157603" duration="140000" />
+      <workItem from="1722413716437" duration="1559000" />
+      <workItem from="1722497024486" duration="1504000" />
+      <workItem from="1723649492123" duration="524000" />
+      <workItem from="1723973474617" duration="56000" />
+      <workItem from="1726465991750" duration="44000" />
+      <workItem from="1726466060281" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

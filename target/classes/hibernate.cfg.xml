@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+	<session-factory>
+		<!-- JDBC Database connection settings -->
+		<property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+		<property name="connection.url">jdbc:mysql://localhost:3306/marketplacev3?serverTimezone=Europe/Kiev&amp;useSSL=false</property>
+		<property name="connection.username">root</property>
+		<property name="connection.password">root</property>
+		<!-- Select our SQL dialect -->
+		<property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+		<property name="hibernate.hbm2ddl.auto">update</property>
+		<!-- Echo the SQL to stdout -->
+		<property name="show_sql">true</property>
+
+		<!-- Теги маппинга классов -->
+		<mapping class="knit.semit.psr.marketplace.entity.Auction"/>
+		<mapping class="knit.semit.psr.marketplace.entity.AuctionRequest"/>
+		<mapping class="knit.semit.psr.marketplace.entity.BidLog"/>
+		<mapping class="knit.semit.psr.marketplace.entity.Bucket"/>
+		<mapping class="knit.semit.psr.marketplace.entity.BucketItem"/>
+		<mapping class="knit.semit.psr.marketplace.entity.Category"/>
+		<mapping class="knit.semit.psr.marketplace.entity.LiveAuction"/>
+		<mapping class="knit.semit.psr.marketplace.entity.Order"/>
+		<mapping class="knit.semit.psr.marketplace.entity.Product"/>
+		<mapping class="knit.semit.psr.marketplace.entity.Role"/>
+		<mapping class="knit.semit.psr.marketplace.entity.User"/>
+
+	</session-factory>
+</hibernate-configuration>

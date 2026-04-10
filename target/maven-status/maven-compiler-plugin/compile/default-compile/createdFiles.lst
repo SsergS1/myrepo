@@ -1,0 +1,5 @@
+knit\semit\psr\marketplace\entity\Product.class
+knit\semit\psr\marketplace\entity\Role.class
+knit\semit\psr\marketplace\entity\User.class
+knit\semit\psr\marketplace\entity\Category.class
+knit\semit\psr\marketplace\entity\LiveAuction.class
